@@ -17,7 +17,6 @@
 ## Работа с проектом
 * Форкните репозиторий
 * Клонируйте: git clone https://github.com/YOUR_SERVER/web_med_recoverytap
-* Install the requried gems (GitHub Pages, Bourbon and Jekyll, Jemoji): bundle install
 
 # Лицензирование
 MIT без дополнительных параметров
